@@ -1,14 +1,28 @@
-> **`ssuprewe Terminal`**
+> **`ssuprewe_profile_utility.exe`**
 ```powershell
-C:\Users\ssuprewe\Documents\github> python config.py
+C:\Users\ssuprewe> python fetch.py
+[+] Initializing system fetch...
+[+] Rendering user profile...
 
-USERNAME.......: ssuprewe
-TITLE..........: Tinkerer & Aspiring Developer | Software, Hardware, Game Dev
-SKILLS.........: Python, C#, C++, Java | Unity, Electron, Arduino | Web (HTML/CSS/JS)
-STATUS.........: Always building, always learning.
-CONTACT........: ssuprewe@protonmail.com
+                  ..........                    ssuprewe@GITHUB
+        .... SSSSS.........                    ---------------------------------
+     .SSSSS...............                      TITLE........: Tinkerer & Aspiring Developer
+   .SSSSS.........                              FOCUS........: Software | Hardware | Game Dev
+  SSSSS..........                               STATUS.......: Always building, always learning.
+ SSSSS...........
+ SSSSS...........                               STACK
+  SSSSS..........                               [ > ] Languages: Python, C#, C++, Java
+   SSSSS.........                               [ > ] Platforms: Unity, Electron, Arduino
+    .SSSSS...............                       [ > ] Web......: HTML, CSS, JavaScript
+       .SSSSSSSSS.........
+               ..........SSSSS                  CONTACT
+                .........SSSSS                  [ > ] Mail: ssuprewe@protonmail.com
+   ......................SSSSS
+   ....................SSSSS
+    ..................SSSSS
+      ..............SSSSS
+        ...........SSSSS
 
->> Profile configuration loaded successfully.
 
-C:\Users\ssuprewe\Documents\github> _
+C:\Users\ssuprewe> _
 ```
