@@ -1,14 +1,13 @@
-### ssuprewe / PowerShell
+```ansi
+[30;47mC:\Users\ssuprewe> python get_profile.py[0m
 
-```powershell
-C:\Users\ssuprewe> python get_profile.py
+[32mUSERNAME...........: ssuprewe[0m
+[36mTITLE..............: Tinkerer & Aspiring Developer | Software, Hardware, Game Dev[0m
+[33mSKILLS.............: Python, C#, C++ , Java | Unity, Electron, Arduino | Web (HTML/CSS/JS)[0m
+[35mSTATUS.............: Always building, always learning.[0m
+[31mCONTACT............: ssuprewe@protonmail.com[0m
 
-USERNAME...........: ssuprewe
-TITLE..............: Tinkerer & Aspiring Developer | Software, Hardware, Game Dev
-SKILLS.............: Python, C#, C++, Java | Unity, Electron, Arduino | Web (HTML/CSS/JS)
-STATUS.............: Always building, always learning.
-CONTACT............: ssuprewe@protonmail.com
+[32m>> Profile loaded successfully.[0m
 
->> Profile loaded successfully.
-
-C:\Users\ssuprewe> █
+C:\Users\ssuprewe> _
+```
