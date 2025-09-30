@@ -1,23 +1,14 @@
-<div align="center">
+> **`ssuprewe Terminal`**
+```powershell
+C:\Users\ssuprewe\Documents\github> python config.py
 
-**`ssuprewe@github:~/`**
+USERNAME.......: ssuprewe
+TITLE..........: Tinkerer & Aspiring Developer | Software, Hardware, Game Dev
+SKILLS.........: Python, C#, C++, Java | Unity, Electron, Arduino | Web (HTML/CSS/JS)
+STATUS.........: Always building, always learning.
+CONTACT........: ssuprewe@protonmail.com
 
-</div>
+>> Profile configuration loaded successfully.
 
-```bash
-┌──(ssuprewe@github)-[~]
-└─$ python load_profile.py
-
-[+] Profil bilgileri getiriliyor...
-
-[*] KULLANICI ADI : ssuprewe
-[*] UNVAN         : Cyber Security Analyst & Python Developer
-[*] YETENEKLER    : Python, Network Security, Linux, Docker
-[*] AKTIF PROJE   : Automated Reconnaissance Tool
-[*] ILETISIM      : ssuprewe@protonmail.com
-
-[✔] Konfigurasyon başarıyla yüklendi.
-
-┌──(ssuprewe@github)-[~]
-└─$ █
+C:\Users\ssuprewe\Documents\github> _
 ```
