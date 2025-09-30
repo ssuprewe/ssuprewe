@@ -1,5 +1,6 @@
 ```
 ╔════════════════════════════════════════════════════════════════════════════════════════╗
+
 C:\Users\ssuprewe> python get_profile.py
 
 USERNAME...........: ssuprewe
@@ -11,5 +12,6 @@ CONTACT............: ssuprewe@protonmail.com
 >> Profile loaded successfully.
 
 C:\Users\ssuprewe> _
+
 ╚════════════════════════════════════════════════════════════════════════════════════════╝
 ```
