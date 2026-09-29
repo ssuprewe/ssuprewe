@@ -21,8 +21,9 @@ sup@mint:~$ fastfetch
   Display       1920x1080 + 1366x768
   Uptime        2h 41m
 
+
+  
 sup@mint:~$ _
-<br>
 </pre>
 
 </td>
