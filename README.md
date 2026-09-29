@@ -7,7 +7,7 @@
 │  OS..........: Linux Mint XFCE                               │
 │  SHELL.......: bash                                          │
 │  EDITOR......: whatever works                                │
-│  STATUS......: tinkering                                     │
+│  STATUS......: sleeping                                      │
 │                                                              │
 │  + >> session ready.                                         │
 │                                                              │
