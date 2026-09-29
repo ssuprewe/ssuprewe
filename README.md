@@ -3,24 +3,28 @@
 <td width="50%" valign="top">
 
 <pre>
-  <br>
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  sup@mint:~$ whoami                                          │
-│                                                              │
-│  USER........: ssuprewe                                      │
-│  OS..........: Linux Mint XFCE                               │
-│  SHELL.......: bash                                          │
-│  EDITOR......: whatever works                                │
-│  STATUS......: sleeping                                      │
-│                                                              │
-│  + >> session ready.                                         │
-│                                                              │
-│  sup@mint:~$ _                                               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+sup@mint:~$ fastfetch
 
+  ssuprewe@mint
+  ──────────────────────────────────────
+  OS            Linux Mint XFCE
+  Host          mint
+  Shell         bash
+  WM            XFCE
+  Theme         Everything
 
+  USER          ssuprewe
+  EDITOR        whatever works
+  PROJECTS      github.com/ssuprewe
+  STATUS        sleeping
+  SESSION       ready
+
+  RAM           3.2 GiB / 7.7 GiB
+  DISPLAY       1920x1080 + 1366x768
+  UPTIME        24h 7m
+
+  ──────────────────────────────────────
+sup@mint:~$ _
 </pre>
 
 </td>
