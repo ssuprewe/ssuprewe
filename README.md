@@ -6,24 +6,21 @@
 sup@mint:~$ fastfetch
 
   ssuprewe@mint
-  ──────────────────────────────────────
+  ─────────────────────────────────
+
   OS            Linux Mint XFCE
-  Host          mint
   Shell         bash
   WM            XFCE
-  Theme         Everything
 
-  USER          ssuprewe
-  EDITOR        whatever works
-  PROJECTS      github.com/ssuprewe
-  STATUS        sleeping
-  SESSION       ready
+  User          suprewe
+  Editor        whatever works
+  Projects      various
+  Focus         coding / messing around
 
   RAM           3.2 GiB / 7.7 GiB
-  DISPLAY       1920x1080 + 1366x768
-  UPTIME        24h 7m
+  Display       1920x1080 + 1366x768
+  Uptime        2h 41m
 
-  ──────────────────────────────────────
 sup@mint:~$ _
 </pre>
 
@@ -51,6 +48,7 @@ W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :
 Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
 $R@i.~~ !     :   ~$$$$$B$$en:``
 ?MXT@Wx.~    :     ~"##*$$$$M~
+<br>
 </pre>
 
 </td>
