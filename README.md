@@ -1,17 +1,17 @@
-```diff
-┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                                  │
-│ C:\Users\ssuprewe> python get_profile.py                                                         │
-│                                                                                                  │
-# USERNAME...........: ssuprewe                                                                    │
-# TITLE..............: Tinkerer & Aspiring Developer | Software, Hardware, Game Dev                │
-# SKILLS.............: Python, C#, C++, Java | Unity, Electron, Arduino | Web (HTML/CSS/JS)        │
-# STATUS.............: Always building, always learning.                                           │
-# CONTACT............: ssuprewe@protonmail.com                                                     │
-│                                                                                                  │
-+ >> Profile loaded successfully.                                                                  │
-│                                                                                                  │
-│ C:\Users\ssuprewe> _                                                                             │
-│                                                                                                  │
-└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  sup@mint:~$ whoami                                          │
+│                                                              │
+│  USER........: ssuprewe                                      │
+│  OS..........: Linux Mint XFCE                               │
+│  SHELL.......: bash                                          │
+│  EDITOR......: whatever works                                │
+│  STATUS......: tinkering                                     │
+│                                                              │
+│  + >> session ready.                                         │
+│                                                              │
+│  sup@mint:~$ _                                               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
