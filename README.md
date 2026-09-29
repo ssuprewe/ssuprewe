@@ -1,4 +1,29 @@
+<table>
+<tr>
+<td valign="top">
+
 ```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  sup@mint:~$ whoami                                          │
+│                                                              │
+│  USER........: ssuprewe                                      │
+│  OS..........: Linux Mint XFCE                               │
+│  SHELL.......: bash                                          │
+│  EDITOR......: whatever works                                │
+│  STATUS......: sleeping                                      │
+│                                                              │
+│  + >> session ready.                                         │
+│                                                              │
+│  sup@mint:~$ _                                               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+
+</td>
+<td valign="top">
+<pre>
                       :::!~!!!!!:.
                   .xUHWH!! !!?M88WHX:.
                 .X*#M@$!!  !X!M$$$$$$WWx:.
@@ -19,20 +44,7 @@ W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :
 Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
 $R@i.~~ !     :   ~$$$$$B$$en:``
 ?MXT@Wx.~    :     ~"##*$$$$M~
-
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  sup@mint:~$ whoami                                          │
-│                                                              │
-│  USER........: ssuprewe                                      │
-│  OS..........: Linux Mint XFCE                               │
-│  SHELL.......: bash                                          │
-│  EDITOR......: whatever works                                │
-│  STATUS......: sleeping                                      │
-│                                                              │
-│  + >> session ready.                                         │
-│                                                              │
-│  sup@mint:~$ _                                               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+</pre>
+</td>
+</tr>
+</table>
