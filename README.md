@@ -22,6 +22,7 @@ sup@mint:~$ fastfetch
   Uptime        2h 41m
 
 sup@mint:~$ _
+<br>
 </pre>
 
 </td>
