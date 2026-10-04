@@ -17,7 +17,7 @@ sup@mint:~$ fastfetch
   Projects      various
   Focus         coding / messing around
 
-  RAM           3.2 GiB / 7.7 GiB
+  RAM           3.2 GiB / 10.0 GiB
   Display       1920x1080 + 1366x768
   Uptime        2h 41m
 
